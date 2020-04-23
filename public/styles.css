@@ -1,4 +1,8 @@
+/**
+ * Styles for the app
+ */
+
 .grayscale_filter {
-	-webkit-filter: saturate(0.03);
-	filter: saturate(0.03);
+    -webkit-filter: saturate(0.03);
+    filter: saturate(0.03);
 }
